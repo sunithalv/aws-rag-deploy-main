@@ -2,7 +2,7 @@ from dataclasses import dataclass
 from typing import List
 from langchain.prompts import ChatPromptTemplate
 from langchain_aws import ChatBedrock
-from src.rag_app.get_chroma_db import get_chroma_db
+from rag_app.get_chroma_db import get_chroma_db
 import boto3
 import os
 

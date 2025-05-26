@@ -1,5 +1,5 @@
 from langchain_community.vectorstores import Chroma
-from src.rag_app.get_embeddings import get_embedding_function
+from rag_app.get_embeddings import get_embedding_function
 
 import shutil
 import sys
