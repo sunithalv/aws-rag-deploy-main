@@ -91,7 +91,5 @@ rag-app/
 └── README.md            # This file
 ```
 
-## License
 
-[Specify your license here]
 
